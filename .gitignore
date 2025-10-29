@@ -1,0 +1,58 @@
+# ==========================
+# Python & FastAPI Project
+# ==========================
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.onnx
+
+# Dataset & archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.csv
+*.json
+
+# Logs & debug files
+*.log
+logs/
+debug.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary or test outputs
+tmp/
+temp/
+test_results/
